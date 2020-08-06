@@ -37,26 +37,3 @@ Project screenshot Screenshot
 ![facebookfeed_form](https://user-images.githubusercontent.com/45098599/89525763-51ad4480-d804-11ea-9063-4bb53eeca1d8.png)
 ![login](https://user-images.githubusercontent.com/45098599/89525765-5245db00-d804-11ea-9b95-28453a7fceeb.png)
 
-
-
-
-
-- [x] User Login
-- [x] User Register
-- [x] Blog List
-- [x] Blog Create
-- [x] Blog Remove
-- [ ] Reset Password
-- [ ] Tests
-- [x] Upgrade to Laravel 7
-- [x] Upgrade to React 16.13
-- [x] Axios
-- [x] Inline-CSS
-- [x] Router and Dynamic Routing
-
-
-## App Screenshots
-
-<img src="public/image1.png" alt="Laravel React CRUD" />
-<img src="public/image2.png" alt="Laravel React CRUD" />
-<img src="public/image3.png" alt="Laravel React CRUD" />
